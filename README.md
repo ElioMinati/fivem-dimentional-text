@@ -4,7 +4,7 @@ A FiveM Resource that implements export functions that allows you to display 3D 
 ## How to install
 
 * Put the script in your fivem resource folder and rename it "dimentional-text".
-* Add  ```lua start dimentional-text``` to your server.cfg
+* Add  ```start dimentional-text``` to your server.cfg
 * Call the exports listed below in your scripts.
 * Enjoy !
 
