@@ -1,6 +1,10 @@
 # fivem-dimentional-text
 A FiveM Resource that implements export functions that allows you to display 3D text however you wish !
 
+## Preview
+
+[Preview](https://youtu.be/y74kh4rXTWw)
+
 ## How to install
 
 * Put the script in your fivem resource folder and rename it "dimentional-text".
